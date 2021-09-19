@@ -2,3 +2,4 @@ mensaje en la clase
 esta es una historia de un archivo guardado con git
 yo mido 1,69
 estamos en 19 de septiembre
+siendo las 23:19 se modifico
