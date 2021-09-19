@@ -1,1 +1,2 @@
 mensaje en la clase
+esta es una historia de un archivo guardado con git
